@@ -1,0 +1,17 @@
+#BlueJ class context
+comment0.params=element
+comment0.target=java.lang.Object\ push(java.lang.Object)
+comment0.text=\r\n\ Adding\ the\ element\ to\ the\ top\ of\ the\ stack.\r\n\ Resizes\ the\ array\ if\ needed.\r\n\r\n\ @param\ element\ it\ is\ an\ item\ to\ be\ pushed\r\n\ @return\ E\ \ The\ item\ that\ was\ pushed\r\n
+comment1.params=
+comment1.target=java.lang.Object\ pop()
+comment1.text=\r\n\ This\ method\ removes\ the\ object\ at\ the\ top\ of\ this\ stack\ and\ returns\ that\ object\ as\ the\ value\ of\ this\ function.\r\n\ \r\n\ @param\ top\ of\ the\ stack\ removing\ and\ returning\ the\ element\r\n\r\n\ @return\ the\ value\ that\ got\ popped\r\n
+comment2.params=
+comment2.target=java.lang.Object\ peek()
+comment2.text=\r\n\ what\ is\ doing\ in\ this\ part\ is\ to\ look\ at\ it,\ and\ not\ removing\ the\ element\ of\ the\ stack\r\n\ \r\n\r\n\ @return\ the\ value\ at\ the\ top\ of\ the\ stack\r\n\ @throws\ EmptyStackException\ if\ stack\ is\ empty\r\n
+comment3.params=
+comment3.target=boolean\ isEmpty()
+comment3.text=\r\n\ Decide\ if\ the\ stack\ is\ empty.\ This\ method\ tests\ if\ this\ stack\ is\ empty.\r\n\r\n\ @return\ True\ if\ the\ stack\ is\ empty,\ otherwise\ is\ false\r\n
+comment4.params=
+comment4.target=int\ size()
+comment4.text=\r\n\ The\ size\ of\ the\ stack\r\n\ \r\n
+numComments=5

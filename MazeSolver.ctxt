@@ -1,0 +1,15 @@
+#BlueJ class context
+comment0.target=MazeSolver
+comment1.params=rows\ columns
+comment1.target=MazeSolver(int,\ int)
+comment2.params=
+comment2.target=void\ solve()
+comment3.params=jin
+comment3.target=void\ serialize(java.util.Scanner)
+comment4.params=
+comment4.target=void\ carryOnMoving()
+comment5.params=direction\ ignoreVisited
+comment5.target=boolean\ moveMaze(Maze.Direction,\ boolean)
+comment6.params=direction
+comment6.target=Maze.Direction\ getOppositeDirection(Maze.Direction)
+numComments=7
